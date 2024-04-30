@@ -1,0 +1,15 @@
+
+
+img {
+    Width: 300px;
+    display: flex;
+    margin: auto;
+    padding: 2px 44px;
+    
+
+}
+body {
+    background-color:aqua;
+    display: block;
+    
+}
